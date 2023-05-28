@@ -1,0 +1,23 @@
+.heading{
+    background-color: antiquewhite;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    align-items: center;
+}
+.mainheading{
+    size: 300px;
+    color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: 900;
+    display: flex;
+    border-color: yellow;
+    border-style: solid;
+}
